@@ -1,0 +1,146 @@
+{
+    "homePage": {
+        "slider": {
+            "headingText": "Photography",
+            "headingAlias": "We record your happy moments"
+        }
+    },
+    "service": {
+        "items": [
+            {
+                "icon": "flaticon-012-management",
+                "title": "Wedding",
+                "code": "wedding",
+                "path": "assets/img/icons/wedding.png",
+                "description": "You are the king today and trust your love and make it a day that suits this love"
+            },
+            {
+                "icon": "flaticon-032-target",
+                "title": "Engagement",
+                "code": "engagement",
+                "path": "assets/img/icons/engagement.png",
+                "description": "Make your best day of your love in a special day"
+            },
+            {
+                "icon": "flaticon-024-user",
+                "title": "Graduation",
+                "code": "graduation",
+                "path": "assets/img/icons/graduation.png",
+                "description": "Stand up on the top of your success in your life"
+            },
+            {
+                "icon": "flaticon-008-bar-chart",
+                "title": "Pre-Wedding",
+                "code": "pre-wedding",
+                "path": "assets/img/icons/pre-wedding.png",
+                "description": " You will enjoy every detail and live every moment "
+            },
+            {
+                "icon": "flaticon-033-networking",
+                "title": "Photoshoot",
+                "code": "photoshoot",
+                "path": "assets/img/icons/photoshoot.png",
+                "description": "Document your happy moments to live the same joy every time you see the picture "
+            },
+            {
+                "icon": "flaticon-031-laptop-1",
+                "title": "Birthday",
+                "code": "birthday",
+                "path": "assets/img/icons/birthday.png",
+                "description": "Welcome your new year with the joy and strength you want it to be"
+            }
+        ]
+    },
+    "works": {
+        "description": "documenting your happy moments in all their details and displaying them with their great quality with our special and wonderful team.choose the right one to record your special day with the most accurate and services and to get a great result",
+        "items": [
+            {
+                "alt": "sample image",
+                "imageUrl": "assets/img/works/work-image-1.jpeg"
+            },
+            {
+                "alt": "sample image",
+                "imageUrl": "assets/img/works/work-image-2.jpeg"
+            },
+            {
+                "alt": "sample image",
+                "imageUrl": "assets/img/works/work-image-3.jpeg"
+            },
+            {
+                "alt": "sample image",
+                "imageUrl": "assets/img/works/work-image-4.jpeg"
+            },
+            {
+                "alt": "sample image",
+                "imageUrl": "assets/img/works/work-image-5.jpeg"
+            },
+            {
+                "alt": "sample image",
+                "imageUrl": "assets/img/works/work-image-6.jpeg"
+            }
+        ]
+    },
+    "teams": {
+        "description": "A full team of professionals in all fields of photography and video to serve you on all your occasions and to display your products and services in the most beautiful and splendid image.",
+        "items": [
+            {
+                "name": "Mahmoud Merhi",
+                "imageUrl": "assets/img/teams/team-1.png",
+                "socialMedia": [
+                    {
+                        "icon": "fab fa-facebook-f",
+                        "url": "https://www.facebook.com/Mahmoudmerhi.photography"
+                    },
+                    {
+                        "icon": "fab fa-twitter",
+                        "url": "https://twitter.com/mahmoudmerhi16"
+                    },
+                    {
+                        "icon": "fab fa-instagram",
+                        "url": "https://www.instagram.com/mahmoudmerhi.photography/"
+                    }
+                ]
+            },
+            {
+                "name": "Colin Firth",
+                "imageUrl": "assets/img/teams/team-1.png"
+            },
+            {
+                "name": "Colin Firth",
+                "imageUrl": "assets/img/teams/team-1.png",
+                "socialMedia": [
+                    {
+                        "icon": "fa-facebook-f",
+                        "url": "#"
+                    }
+                ]
+            }
+        ]
+    },
+    "video": {
+        "url": "https://www.youtube.com/watch?v=g6VOzkJx7-s",
+        "backgroundUrl": "../../assets/img/video-bg.jpg"
+    },
+    "contactUs": {
+        "description": "the description of the contact-us goes here"
+    },
+    "work": {
+        "itemLength": 12,
+        "description": "documenting your happy moments in all their details and displaying them with their great quality with our special and wonderful team.choose the right one to record your special day with the most accurate and services and to get a great result",
+        "extension": "jpg"
+    },
+    "wedding": {
+        "itemLength": 4,
+        "description": "You are the king today and trust your love and make it a day that suits this love",
+        "extension": "jpg"
+    },
+    "engagement": {
+        "itemLength": 1,
+        "description": "Make a day of your love a special day",
+        "extension": "jpg"
+    },
+    "birthday": {
+        "description": "Welcome your new year with the joy and strength you want it to be",
+        "extension": "jpg"
+    }
+}
