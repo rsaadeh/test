@@ -1,0 +1,137 @@
+/*
+ Default: var(--primary-color);
+ */
+
+ :root {
+    --primary-color: #ffbf01;
+    --secondary-color: #ffbf01;
+}
+
+h2, a:focus {
+    color: var(--primary-color);
+}
+.button, .center-wrap button button {
+	border: 1px solid var(--primary-color);
+    background-color: var(--primary-color);
+}
+.plan .button:hover {
+	border-color: var(--primary-color);
+}
+.plan .button a, .glyph .glyph-icon::before {
+	color: var(--primary-color);
+}
+.plan.featured .button {
+	background-color: var(--primary-color);
+}
+.social-icons ul li a:hover {
+	background-color: var(--primary-color);
+}
+.navbar-light .navbar-nav > .nav-item:hover {
+	background-color: var(--secondary-color);
+}
+.navbar-light .navbar-nav .nav-link.active{
+	background-color: var(--secondary-color) !important;
+}
+.navbar-light.fixed-top, .search-modal, .home-video-area::before, .owl-thumb-item.active .slide-service-item, .owl-thumb-item:hover .slide-service-item {
+    background-color: var(--primary-color);
+}
+.filter-menu ul li.active,  .filter-menu ul li:hover {
+	background-color: var(--primary-color);
+}
+.work-details .icon li a, .team-box .title, .team-box .icon li a {
+	color: var(--primary-color);
+}
+.team-slides .owl-nav button {
+    color: var(--primary-color) !important;
+}
+.team-box .icon li a:hover {
+	background: var(--primary-color);
+}
+.date-box {
+	background-color: var(--primary-color);
+}
+.blog-item:hover .title-meta h2 a {
+    color: var(--primary-color);
+}
+.post-meta ul li a:hover {
+	color: var(--primary-color);
+}
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+	background-color: var(--primary-color);
+	border-color: var(--primary-color);
+}
+.side-widget h3::before {
+	background: var(--primary-color);
+}
+.search-form .btn-default {
+	border-color: var(--primary-color);
+	background: var(--primary-color);
+}
+.side-widget .list-group li a:hover {
+	color: var(--primary-color);
+}
+.single-post h4 a:hover {
+	color: var(--primary-color);
+}
+.list-tags li a:hover {
+    background-color: var(--primary-color);
+}
+.sharing-link ul li i:hover {
+    background-color: var(--primary-color);
+}
+.content-box:hover .box-icon-effect-1a .box-icon i {
+    color: var(--primary-color);
+}
+.work-details .box-content{
+	background: var(--primary-color);
+}
+.comments-title::before {
+	background: var(--primary-color);
+}
+.single-comment .reply:hover {
+	background-color: var(--primary-color);
+}
+.video-area:before {
+	background: var(--primary-color);
+}
+.plus, .post-meta ul li .fa, .far {
+	color: var(--primary-color);
+}
+.plus:hover {
+	color: var(--primary-color);
+}
+.tab-menu ul li.active a {
+	background-color: var(--primary-color);
+}
+.tabs-filter-button.active {
+	background-color: var(--primary-color);
+}
+.plan.featured .listing-badges .featured {
+	color: var(--primary-color);
+}
+.plan.featured .plan-price, .content-box.color-effect-1, .footer  {
+	background-color: #94741538
+}
+.single-testimonial-item i.fa {
+    color: var(--primary-color);
+}
+.partners-slides .owl-nav button {
+    color: var(--primary-color) !important;
+}
+.client-info h3 {
+	color: var(--primary-color);
+ }
+ .testimonial-slides .owl-nav button {
+	color: var(--primary-color) !important;
+ }
+ #accordion .panel-title a:before,
+#accordion .panel-title a.collapsed:before {
+	color: var(--primary-color);
+	border: 1px solid var(--primary-color);
+}
+.social-icons.bottom ul li a {
+	background-color: var(--primary-color);
+}
+.social-icons.bottom ul li a:hover {
+    color: #9e3610;
+}
